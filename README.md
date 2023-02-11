@@ -14,11 +14,15 @@
 <div align="center">
   <a href="https://github.com/wiildson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiildson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## Linguagens mais utilizadas
+<div align="center">
   <a href="https://github.com/wiildson">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiildson&langs_count=8"/>
 </div>
 
-## Tecnologias
+## Linguagens de conhecimento
 <div style="display: inline_block"><br>
 <img align="center" alt="Will-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Will-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
